@@ -12,6 +12,8 @@ coverage = "*"
 [packages]
 django = "*"
 python-decouple = "*"
+django-s3-folder-storage = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
